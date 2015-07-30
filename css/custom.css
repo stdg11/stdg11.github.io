@@ -1,3 +1,21 @@
-body{
-    background-image: url("img/bg.jpg");
+body, html {
+    /* important */
+    height: 100%;
 }
+
+fixed-bg {
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+scrolling-bg {
+    min-height: 100%;
+}
+
+laptop-bg{
+    background-image: url("../img/bg.jpg");
+}
+

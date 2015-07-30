@@ -8,7 +8,7 @@
 
   <title>Daniel Grammatica | SysAdmin, Geek</title>
 
-  <link rel="stylesheet" type="text/css" media="screen" href="css/concise.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="css/concise.min.css" />
   <link rel="stylesheet" type="text/css" media="screen" href="css/custom.css" />
 </head
 

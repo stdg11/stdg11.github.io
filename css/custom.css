@@ -47,3 +47,18 @@ section.home .avatar {
 }
 
 section.home .avatar:hover { border-width: 3px; }
+
+.social-links{ margin-bottom: 40px; }
+
+.online-rights{
+    width: 820px;
+    margin: 0 auto;
+    position:absolute; 
+    bottom:50px;
+    left:0;
+    right:0;
+}
+
+.online-rights a img{
+    width: 400px;
+}

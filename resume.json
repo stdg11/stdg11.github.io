@@ -6,7 +6,7 @@
     "email": "dan@t0xic.me",
     "phone": "Email me",
     "website": "http://t0xic.me",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,7 +19,7 @@
         "network": "Github",
         "username": "stdg11",
         "url": "https://github.com/stdg11"
-      },
+      }
     ]
   },
   "work": [
@@ -28,32 +28,29 @@
       "position": "Systems Administrator",
       "website": "http://www.bourne-grammar.lincs.sch.uk",
       "startDate": "2011-03-01",
-      "endDate": "Present",
-      "summary": "Our aim at Bourne Grammar School is to achieve excellence in all we do. Our vision is to be one of the best schools in the country - a school at which students will be happy and successful and one to which parents wish to send their children. We are a mixed selective grammar school serving around 1000 students. Using the Lincolnshire 11+ examination we select from the top quarter of the year six students in Bourne and the surrounding areas.",
+      "summary": "",
       "highlights": [
         "Rebuilt the Schools network improving reliability and implementing VLANS. Along with a new Fortinet tirewall",
-        "Implemented BYOD for 1800 users using Meru wireless networking, combined with port ACL's for security",
-        ""
+        "Implemented BYOD for 1800 users using Meru wireless networking, combined with port ACL's for security"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",C
+      "organization": "Bourne & District Roundtable 896",
+      "position": "Hon. Treasurer",
+      "website": "http://bournefestival.com/",
+      "startDate": "2014-10-01",
+      "summary": "We are a worldwide organisation that allows our members to experience new activities; help their community and create new trusted contacts. We have fun, offer unconditional friendship and we make a difference.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Organising a Music & Beer festival annualy for the local community"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Bourne Grammar School",
+      "area": "Secondary School",
       "studyType": "Bachelor",
       "startDate": "2011-06-01",
       "endDate": "2014-01-01",
@@ -109,16 +106,15 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Cycling",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Road"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
+      "name": "Harry Goodger",
       "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]

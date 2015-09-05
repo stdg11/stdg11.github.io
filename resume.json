@@ -32,8 +32,8 @@
       "summary": "Our aim at Bourne Grammar School is to achieve excellence in all we do. Our vision is to be one of the best schools in the country - a school at which students will be happy and successful and one to which parents wish to send their children. We are a mixed selective grammar school serving around 1000 students. Using the Lincolnshire 11+ examination we select from the top quarter of the year six students in Bourne and the surrounding areas.",
       "highlights": [
         "Rebuilt the Schools network improving reliability and implementing VLANS. Along with a new Fortinet tirewall",
-        "Implemented BYOD using Meru wireless networking, combined with port ACL's for security",
-        "Optimized an algorithm that holds the current world record for Weisman Scores111111111111"
+        "Implemented BYOD for 1800 users using Meru wireless networking, combined with port ACL's for security",
+        ""
       ]
     }
   ],

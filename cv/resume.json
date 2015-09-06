@@ -47,14 +47,14 @@
       "summary": "Roundtable is about having a good time, networking and helping the local community. As well as our Music Festival, we invite the pensioners in Bourne to a Christmas Dinner. Along with a Fireworks night raising funds for the local primary school.",
       "highlights": [
         "Organising a Music & Beer festival annually for the local community, raising on average £20k for charity.",
-	"Attending multiple events. Raft race, Segwaying, Shooting etc."
+	"Attending social events. Raft race, Segwaying, Shooting and drinking!"
       ]
     },
     {
       "organization": "Stamford Shakespeare Company",
       "position": "Technical",
       "website": "http://http://stamfordshakespeare.co.uk/",
-      "summary": "I love pushing faders! I help out with a lot of local events either providing Equipment or Engineering. I'm predominantly a noise boy and enjoy mixing sound. Although I have been known for pimp my Church.(http://tinyurl.com/ollua52)",
+      "summary": "I love pushing faders! I help out with lots of local events (mostly charitable) either providing Equipment or Engineering. I'm predominantly a noise boy and enjoy mixing sound.",
       "highlights": [
         "5AM Full English with Stuffing!? After an overnight de-rig"
       ]
@@ -76,7 +76,7 @@
   "skills": [
     {
       "name": "System Administration",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
         "Linux (Mostly Ubuntu)",
         "Fortinet",

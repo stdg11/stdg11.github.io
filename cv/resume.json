@@ -28,7 +28,7 @@
       "position": "Systems Administrator & Performing Arts Technician",
       "website": "http://www.bourne-grammar.lincs.sch.uk",
       "startDate": "2011-03-01",
-      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsibility was providing support for 1800 pupils and 11 staff. As I've worked up to Systems Administrator I've built new systems and optimised many other, improving the end-user experience and saving the School lot's of money.",
+      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsibility was providing support for 1800 pupils and 100 staff. As I've worked up to Systems Administrator I've built new systems and optimised many other, improving the end-user experience and saving the School lot's of money.",
       "highlights": [
 	"Setting up an Openstack private cloud to enable students to experiment with Linux and web servers.",
 	"Using Cobbler and Fabric to PXE boot and configure a subnet of PC's with a Windows/Linux dual boot.",

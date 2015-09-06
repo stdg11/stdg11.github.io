@@ -28,7 +28,7 @@
       "position": "Systems Administrator & Performing Arts Technician",
       "website": "http://www.bourne-grammar.lincs.sch.uk",
       "startDate": "2011-03-01",
-      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsability was providing support for 1800 pupils and 11 staff. As I've worked up to Systems Administator I've built new systems and optimised many other, imporving the end-user experience and saving the School lot's of money.",
+      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsability was providing support for 1800 pupils and 11 staff. As I've worked up to Systems Administator I've built new systems and optimised many other, improving the end-user experience and saving the School lot's of money.",
       "highlights": [
 	"Setting up an Openstack private cloud to enable students to experiment with Linux and web servers.",
 	"Using Cobbler and Fabric to PXE boot and configure a subnet of PC's with a Windows/Linux dual boot.",
@@ -46,7 +46,7 @@
       "startDate": "2014-10-01",
       "summary": "Roundtable is about having a good time, networking and helping the local community. As well as our Music Festival, we invite the pensioners in Bourne to a Christmas Dinner. Along with a Fireworks night raising funds for the local primary school.",
       "highlights": [
-        "Organising a Music & Beer festival annualy for the local community, raising on average £20k for charity.",
+        "Organising a Music & Beer festival annually for the local community, raising on average £20k for charity.",
 	"Attending multiple events. Raft race, Segwaying, Shooting etc."
       ]
     },
@@ -83,9 +83,10 @@
         "Windows",
         "Networking",
         "Scripting (Python/Shell)",
-        "Documenting!",
+        "Documenting",
         "NGINX",
-        "Emacs"
+        "Emacs",
+        "Powershell"
       ]
     },
     {
@@ -96,7 +97,8 @@
         "CSS",
 	"Markdown",
         "Frameworks",
-        "CMS"
+        "CMS",
+        "Photoshop/InDesign"
       ]
     },
     {
@@ -138,6 +140,14 @@
       "keywords": [
         "Road racing",
         "Sportives"
+      ]
+    },
+    {
+      "name": "Water Sports",
+      "keywords": [
+        "Kayaking",
+        "Cannoeing",
+        "Paddle-boarding"
       ]
     },
     {

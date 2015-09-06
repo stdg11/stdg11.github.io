@@ -6,7 +6,7 @@
     "email": "dan@t0xic.me",
     "phone": "Email me",
     "website": "http://t0xic.me",
-    "summary": "",
+    "summary": "I love Computers and the Hacking culture! It's not a job its my lifestyle, when im not working you'll find me on Hacker News or Reddit reading up and tinkering with new technology. I'm very security conscious (some might call me paranoid) and would like to move into the security world in the future. I'm a big Open Source advocate, I run Ubuntu with i3 and spend most of my time in an ssh session or emacs. I'm always trying to convert friends and family to the Open Source world.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,7 +28,7 @@
       "position": "Systems Administrator & Performing Arts Technician",
       "website": "http://www.bourne-grammar.lincs.sch.uk",
       "startDate": "2011-03-01",
-      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. I have always had a passion for Computing and for the majority am self taught, Im not scared to spend an evening reading some hefty documentation. I have implemented many new systems mainly Open source based.",
+      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsability was providing support for 1800 pupils and 11 staff. As I've worked up to Systems Administator I've built new systems and optimised many other, imporving the end-user experience and saving the School lot's of money.",
       "highlights": [
 	"Setting up an Openstack private cloud to enable students to experiment with Linux and web servers.",
 	"Using Cobbler and Fabric to PXE boot and configure a subnet of PC's with a Windows/Linux dual boot.",

@@ -2,7 +2,7 @@
   "basics": {
     "name": "Daniel Grammatica",
     "label": "Systems Administrator",
-    "picture": "",
+    "picture": "https://raw.githubusercontent.com/stdg11/stdg11.github.io/master/img/profile.jpg",
     "email": "dan@t0xic.me",
     "phone": "Email me",
     "website": "http://t0xic.me",
@@ -49,6 +49,15 @@
         "Organising a Music & Beer festival annualy for the local community, raising on average £20k for charity.",
 	"Attending multiple events. Raft race, Segwaying, Shooting etc."
       ]
+    },
+    {
+      "organization": "Stamford Shakespeare Company",
+      "position": "Technical",
+      "website": "http://http://stamfordshakespeare.co.uk/",
+      "summary": "",
+      "highlights": [
+        "5AM Full English with Stuffing!? After an overnight de-rig"
+      ]
     }
   ],
   "education": [
@@ -70,40 +79,72 @@
       "name": "System Administration",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Linux (Mostly Ubuntu)",
+        "Fortinet",
+        "Windows",
+        "Networking",
+        "Scripting (Python/Shell)",
+        "Documenting!",
+        "NGINX",
+        "Emacs"
       ]
     },
     {
       "name": "Web Development",
-      "level": "",
+      "level": "Comfortable",
       "keywords": [
         "HTML",
         "CSS",
-        "Python",
+	"Markdown",
+        "Frameworks",
         "CMS"
+      ]
+    },
+    {
+      "name": "Live Events",
+      "level": "Advanced",
+      "keywords": [
+        "Event management",
+        "Sound",
+        "Lighting",
+        "Stage",
+        "Rigging",
+        "Health & Safety"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
+      "fluency": "Native speaker"
+    },
+    {
       "language": "Geek",
       "fluency": "Fluent"
     }
   ],
   "interests": [
     {
+      "name": "Online Rights",
+      "keywords": [
+	"Electronic Frontier Foundation",
+        "Open Rights Group",
+        "Crypto-parties",
+        "Converting people to Open Source",
+        "Raising awareness"
+      ]
+    },
+    {
       "name": "Cycling",
       "keywords": [
-        "Road racing"
+        "Road racing",
+        "Sportives"
       ]
     },
     {
       "name": "Coffee Lover",
       "keywords": [
+	"Costa Coffee",
 	"None of that instant stuff!"
       ]
     }
@@ -111,7 +152,7 @@
   "references": [
     {
       "name": "Stephen Brown, Director of Computing - Bourne Grammar School",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "reference": ""
     },
     {
       "name": "Marc Scott, Head of Curriculum - Raspberry Pi Foundation",

@@ -6,7 +6,7 @@
     "email": "dan@t0xic.me",
     "phone": "Email me",
     "website": "http://t0xic.me",
-    "summary": "I love Computers and the Hacking culture! It's not a job its my lifestyle, when I'm not working you'll find me on Hacker News or r/sysadmin reading up and tinkering with new technology. I'm very security conscious (some might call me paranoid) and would like to move into the security world in the future. I'm a big Open Source advocate, I run Ubuntu with i3 and spend most of my time in an ssh session or Emacs. I'm always trying to convert friends and family to the Open Source world.",
+    "summary": "I love Computers and the Hacking culture! It's not a job its my lifestyle, when I'm not working you'll find me on Hacker News or r/sysadmin reading up and tinkering with new technologies. I'm very security conscious (some might call me paranoid) and would like to move into the security world in the future. I'm a big Open Source advocate, I run Ubuntu with i3 and spend most of my time in the command line. I'm always trying to convert friends and family to the Open Source world.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -36,8 +36,22 @@
         "Implemented BYOD for 1800 users using Meru wireless networking, combined with port ACL's for security.",
 	"Building an Asterisk PBX to replace our dated Siemens analogue PBX, saving the School on expensive phone lines and support contracts."
       ]
+    },
+    {
+      "company": "Smart Technologies",
+      "position": "IT Systems Engineer",
+      "website": "http://mysmartgroup.co.uk",
+      "startDate": "2015-10-18",
+      "summary": "At Smart Technologies I support over 60 clients with X Servers and X Workstations along with my colleagues. Moving to the Private Sector was an interesting step knowing there wasn't much place for OpenSource systems within Small/Medium Business Applications. ",
+      "highlights": [
+        "Exposure to proprietary systems, SLA's, their commercial uses and vendor contracts that come with.",
+        "Building my PowerShell skills developing site-wide fixes and bespoke backup solutions for clients.",
+        "Managing Cloud Based systems, Office365, Spam filtering, Remote Management etc.",
+        "Working with a vast range of Hardware/Software products. Applying previous knowledge to new systems, discovering the fundamentals are the same. For example Firewall's being a Linux Box running IP Tables alongisde a GUI.",
+        "Developing my customer focus and team working skills, ensuring the client is satisfied with the end product and level of support."
+      ]
     }
-  ],
+  ]
   "volunteer": [
     {
       "organization": "Bourne & District Roundtable 896",
@@ -81,16 +95,17 @@
         "Linux (Mostly Ubuntu)",
         "Fortinet",
         "Windows",
+        "Windows Servers",
         "Networking",
         "Scripting (Python/Shell)",
         "Documenting",
-        "NGINX",
-        "Emacs",
+        "LEMP/LAMP Stacks",
+        "replace me",
         "Powershell"
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Web Design",
       "level": "Comfortable",
       "keywords": [
         "HTML",

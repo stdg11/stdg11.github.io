@@ -40,7 +40,7 @@ section.home .avatar {
   margin-top:100px;
 }
 
-.center { 
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -53,7 +53,7 @@ section.home .avatar:hover { border-width: 3px; }
 .online-rights{
     width: 820px;
     margin: 0 auto;
-    position:absolute; 
+    <!--position:absolute;-->
     bottom:50px;
     left:0;
     right:0;

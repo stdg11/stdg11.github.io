@@ -50,12 +50,10 @@ section.home .avatar:hover { border-width: 3px; }
 
 .social-links{ margin-top: 60px; }
 
+.online-rights{
+  max-width:810px;
+  margin:0 auto;
+}
 .online-rights a img{
     max-width: 400px;
-}
-
-@media screen and (max-width: 368px) {
-  .online-rights a img{
-      max-width: 300px;
-  }
 }

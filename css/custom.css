@@ -53,3 +53,9 @@ section.home .avatar:hover { border-width: 3px; }
 .online-rights a img{
     max-width: 400px;
 }
+
+@media screen and (max-width: 368px) {
+  .online-rights a img{
+      max-width: 300px;
+  }
+}

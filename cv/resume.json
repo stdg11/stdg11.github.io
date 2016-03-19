@@ -23,32 +23,45 @@
     ]
   },
   "work": [
+      {
+	"company": "Respberry Pi Foundation",
+	"position": "IT Support Specialist",
+	"website": "http://raspberrypi.org",
+	"startDate": "2016-03-21",
+	"summary": "",
+	"highlights": []
+	},
+      {
+      "company": "Smart Technologies",
+      "position": "IT Systems Engineer",
+      "website": "http://mysmartgroup.co.uk",
+      "startDate": "2015-10-18",
+	 "endDate": "2016-03-19",
+      "summary": "At Smart Technologies I supported over 45 clients with 235 Servers and 1000+ Workstations alongside my colleagues. Moving to the Priva\
+te Sector was an interesting step knowing there wasn't much adoption for OpenSource systems within Small/Medium Business Applications. ",
+      "highlights": [
+        "Exposure to proprietary systems, SLA's, their commercial uses and vendor contracts that come with.",
+        "Building my PowerShell skills developing fixes and scripting solutions for clients.",
+        "Managing Cloud Based systems, Office365, Spam filtering, Remote Management etc.",
+	"Migrating clients to hosted solutions ensuring a smooth changeover, without any loss of data or business productivity.",
+        "Working with a vast range of Hardware/Software products. Applying previous knowledge to new systems, discovering the fundamentals are the sam\
+e. For example Firewall's being a Linux Box running IP Tables alongside a GUI.",
+        "Developing my customer focus and team working skills, ensuring the client is satisfied with the end product and level of support."
+      ]
+    },
     {
       "company": "Bourne Grammar School",
       "position": "Systems Administrator & Performing Arts Technician",
       "website": "http://www.bourne-grammar.lincs.sch.uk",
       "startDate": "2011-03-01",
-      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsibility was providing support for 1800 pupils and 100 staff. As I've worked up to Systems Administrator I've built new systems and optimised many others, improving the end-user experience and enabling the School to use their finances for other departments.",
+	"endDate": "2015-10-18",
+      "summary": "I started at Bourne Grammar School as an IT Technician after proving myself as a student IT assistant. My main responsibility was providing support for 1800 pupils and 100 staff. As I worked up to Systems Administrator I've built new systems and optimised many others, improving the end-user experience and enabling the School to use their finances for other departments.",
       "highlights": [
 	"Setting up an Openstack private cloud to enable students to experiment with Linux and web servers.",
 	"Using Cobbler and Fabric to PXE boot and configure a subnet of PC's with a Windows/Linux dual boot.",
         "Rebuilding the Schools network improving reliability and implementing VLANS. Along with a Fortinet firewall, web filtering and nginx reverse proxy to save on IPv4 address'.",
         "Implemented BYOD for 1800 users using Meru wireless networking, combined with port ACL's for security.",
 	"Building an Asterisk PBX to replace our dated Siemens analogue PBX, saving the School on expensive phone lines and support contracts."
-      ]
-    },
-    {
-      "company": "Smart Technologies",
-      "position": "IT Systems Engineer",
-      "website": "http://mysmartgroup.co.uk",
-      "startDate": "2015-10-18",
-      "summary": "At Smart Technologies I support over 45 clients with 235 Servers and 1000+ Workstations alongside my colleagues. Moving to the Private Sector was an interesting step knowing there wasn't much adoption for OpenSource systems within Small/Medium Business Applications. ",
-      "highlights": [
-        "Exposure to proprietary systems, SLA's, their commercial uses and vendor contracts that come with.",
-        "Building my PowerShell skills developing fixes and scripting solutions for clients.",
-        "Managing Cloud Based systems, Office365, Spam filtering, Remote Management etc.",
-        "Working with a vast range of Hardware/Software products. Applying previous knowledge to new systems, discovering the fundamentals are the same. For example Firewall's being a Linux Box running IP Tables alongisde a GUI.",
-        "Developing my customer focus and team working skills, ensuring the client is satisfied with the end product and level of support."
       ]
     }
   ],

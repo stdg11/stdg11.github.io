@@ -6,7 +6,7 @@
 	"email": "dan@t0xic.me",
 	"phone": "Email me",
 	"website": "http://t0xic.me",
-	"summary": "I love Computers and the Hacking culture! It's not a job its my lifestyle, when I'm not working you'll find me on Hacker News or r/sysadmin reading up and tinkering with new technologies. I'm very security conscious (some might call me paranoid) and would like to move into the security world in the future. I'm a big Open Source advocate, I run Ubuntu with i3 and spend most of my time in the command line. I'm always trying to convert friends and family to the Open Source world.",
+	"summary": "I have always had a fascination with technology since a young age. At twelve I was helping to manage my schools network and fixing computers for friends. This passion only grew as I got older and transformed into a career. Although I spend a lot of free time tinkering, building and crawling /r/sysadmin, I recognise the need to disconnect. From this need I have developed a great love for all things outdoors, especially climbing. I spend a lot of my free time down the local climbing gym and weekends exploring the Lake District and Snowdonia.",
 	"location": {
 	    "address": "",
 	    "postalCode": "",
@@ -23,7 +23,7 @@
     "work": [{
 	"company": "Respberry Pi Foundation",
 	"position": "IT Support & Systems Analyst",
-	"website": "http://raspberrypi.org",
+	"website": "https://raspberrypi.org",
 	"startDate": "2016-03-21",
 	"endDate": "2017-05-31",
 	"summary": "I joined the Raspberry Pi Foundation during a sustained period of growth, within a year we went from roughly 20 employees to 120+. This was an initial contract of three months with the aim to deploy a cloud infrastructure and improve local infrastructure in Cambridge and London.",
@@ -70,7 +70,7 @@
 	"position": "Search Technician",
 	"website": "http://camsar.org/",
 	"startDate": "2017-03-01",
-	"summary": "Cambridgeshire Search and Rescue (CamSAR) is the Lowland Rescue unit covering our county, often also assisting sister teams in the wider region. We are a specialist team, called upon by Police in the search for vulnerable missing people: a child, an elderly person living with dementia or even someone who is considering taking their own life. We are on call 24/7/365",
+	"summary": "Cambridgeshire Search and Rescue (CamSAR) is the Lowland Rescue unit covering our county, often also assisting sister teams in the wider region. We are a specialist team, called upon by Police in the search for vulnerable missing people: a child, an elderly person living with dementia or even someone who is considering taking their own life. We are on call 24/7/365.",
 	"highlights": [
 	    "Locating a missing person allowing family and friends closure.",
 	    "Building on my skillset with specialist training."

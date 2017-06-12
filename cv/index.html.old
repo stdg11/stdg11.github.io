@@ -6,10 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Resume of Daniel Grammatica</title>
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <style type="text/css">
-    @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
+    @import url(//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
 @charset "utf-8";
 @-webkit-viewport   { width: device-width; }
 @-moz-viewport      { width: device-width; }
@@ -18,11 +18,11 @@
 @viewport           { width: device-width; }
 
 body{
-    font-family: 'Open Sans', Arial, Tahoma;
-    font-weight: 400;
-    color: #363636;
-    background: url('../../img/bg.jpg') no-repeat center center fixed;
-    background-size: cover;
+  font-family: 'Open Sans', Arial, Tahoma;
+  font-weight: 400;
+  color: #363636;
+  background: url('../../img/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
 blockquote {
   font-size: 1em;
@@ -305,19 +305,6 @@ a[href]:after {
 .box {
   margin-bottom: -10px;
 }
-
-blockquote,
-#education,
-#awards,
-.contact-item,
-.publication,
-.skills,
-.interests,
-.job-details,
-.job {
-  page-break-inside: avoid;
-}
-
 .col-sm-5{
   width: 40%;
   padding: 0 15px;
@@ -413,27 +400,18 @@ blockquote,
               <div class="job clearfix">
                 <div class="row">
                   <div class="details">
-                    <div class="where">Respberry Pi Foundation</div>
+                    <div class="where">Raspberry Pi Foundation</div>
                     <div class="address">
                       <a href="http:&#x2F;&#x2F;raspberrypi.org" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;raspberrypi.org</a>
                     </div>
-                    <div class="year">March 2016 – May 2017</div>
+                    <div class="year">March 2016 – Present</div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="job-details col-xs-11">
-                    <div class="profession">IT Support &amp; Systems Analyst</div>
+                    <div class="profession">IT Support Specialist</div>
                     <div class="description">
-                      I joined the Raspberry Pi Foundation during a sustained period of growth, within a year we went from roughly 20 employees to 120+. This was an initial contract of three months with the aim to deploy a cloud infrastructure and improve local infrastructure in Cambridge and London.
-                      <div class="highlights">Highlights</div>
-                      <ul class="list-group">
-                        <li class="list-group-item">Helping with the security requirements to enable ground to space communication with our two Raspberry Pi's on the International Space Station.</li>
-                        <li class="list-group-item">Networking with leading professionals at a variety of events, most notably our birthday party celebration at the Houses of Parliament.</li>
-                        <li class="list-group-item">Spending a week at the family orientated music festival Camp Bestival teaching children how to code in Scratch and Python.</li>
-                        <li class="list-group-item">Migrating the foundations existing hosted exchange and file storage to the Google suite of applications.</li>
-                        <li class="list-group-item">Working with different teams to identify workflows and establish IT systems to help automate and remove mundane processes.</li>
-                        <li class="list-group-item">Identifying the needs of different teams and trialling different CRM's before implementing the most suitable system.</li>
-                      </ul>
+                      
                     </div>
                   </div>
                 </div>
@@ -500,35 +478,11 @@ blockquote,
               <div class="job clearfix">
                 <div class="row">
                   <div class="details">
-                    <div class="where">Cambridgeshire Search and Rescue</div>
-                    <div class="address">
-                      <a href="http:&#x2F;&#x2F;camsar.org&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;camsar.org&#x2F;</a>
-                    </div>
-                    <div class="year">March 2017 – Present</div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-11 pull-right">
-                    <div class="profession">Search Technician</div>
-                    <div class="description">
-                      Cambridgeshire Search and Rescue (CamSAR) is the Lowland Rescue unit covering our county, often also assisting sister teams in the wider region. We are a specialist team, called upon by Police in the search for vulnerable missing people: a child, an elderly person living with dementia or even someone who is considering taking their own life. We are on call 24/7/365
-                      <div class="highlights">Highlights</div>
-                      <ul class="list-group">
-                        <li class="list-group-item">Locating a missing person allowing family and friends closure.</li>
-                        <li class="list-group-item">Building on my skillset with specialist training.</li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="job clearfix">
-                <div class="row">
-                  <div class="details">
                     <div class="where">Bourne &amp; District Roundtable 896</div>
                     <div class="address">
                       <a href="http:&#x2F;&#x2F;bournefestival.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;bournefestival.com&#x2F;</a>
                     </div>
-                    <div class="year">October 2014 – April 2017</div>
+                    <div class="year">October 2014 – Present</div>
                   </div>
                 </div>
                 <div class="row">
@@ -562,7 +516,7 @@ blockquote,
                       I love pushing faders! I help out with lots of local events (mostly charitable) either providing Equipment or Engineering. I'm predominantly a noise boy and enjoy mixing sound.
                       <div class="highlights">Highlights</div>
                       <ul class="list-group">
-                        <li class="list-group-item">5AM Full English after an overnight de-rig</li>
+                        <li class="list-group-item">5AM Full English with Stuffing!? After an overnight de-rig</li>
                       </ul>
                     </div>
                   </div>
@@ -576,8 +530,8 @@ blockquote,
             <h2><i class="fa fa-bullseye ico"></i> Contact</h2>
             <div class="contact-item">
               <div class="icon pull-left text-center"><span class="fa fa-map-marker fa-fw"></span></div>
-              
-              <div class="title only  pull-right">Peterborough, Cambridgeshire UK</div>
+              <div class="title pull-right"></div>
+              <div class="description pull-right">Peterborough UK</div>
             </div>
             <div class="contact-item">
               <div class="icon pull-left text-center"><span class="fa fa-phone fa-fw"></span></div>
@@ -585,14 +539,14 @@ blockquote,
             </div>
             <div class="contact-item">
               <div class="icon pull-left text-center"><span class="fa fa-envelope fa-fw"></span></div>
-              <div class="title only pull-right"><a href="mailto:dan@t0xic.me" target="_blank">dan@t0xic.me</a></div>
+              <div class="title only pull-right"><a href="/cdn-cgi/l/email-protection#7317121d3307430b1a105d1e16" target="_blank"><span class="__cf_email__" data-cfemail="167277785662266e7f75387b73">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div>
             </div>
             <div class="contact-item">
               <div class="icon pull-left text-center"><span class="fa fa-globe fa-fw"></span></div>
               <div class="title only pull-right"><a href="http:&#x2F;&#x2F;t0xic.me" target="_blank">http:&#x2F;&#x2F;t0xic.me</a></div>
             </div>
             <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-github fa-fw"></span></div>
+              <div class="icon pull-left text-center"><span class="fa fa-github-square fa-fw"></span></div>
               <div class="title pull-right">Github</div>
               <div class="description pull-right"><a href="https:&#x2F;&#x2F;github.com&#x2F;stdg11" target="_blank">stdg11</a></div>
             </div>
@@ -621,24 +575,25 @@ blockquote,
             <h2><i class="fa fa-tasks ico"></i> Skills</h2>
             <div class="skills clearfix">
               <div class="item-skills">
-                  Systems Administration
+                  System Administration
                   <span class="skill-level">Advanced</span>
               </div>
               <div class="col-sm-offset-1 col-sm-12 clearfix">
-                <span class= "skill badge">Linux (Mostly Debian based)</span>
+                <span class= "skill badge">Linux (Mostly Ubuntu)</span>
                 <span class= "skill badge">Fortinet</span>
                 <span class= "skill badge">Windows</span>
                 <span class= "skill badge">Windows Servers</span>
                 <span class= "skill badge">Networking</span>
-                <span class= "skill badge">Scripting (Python/Shell/Powershell)</span>
+                <span class= "skill badge">Scripting (Python/Shell)</span>
                 <span class= "skill badge">Documenting</span>
                 <span class= "skill badge">LEMP/LAMP Stacks</span>
-                <span class= "skill badge">Cloud Services</span>
+                <span class= "skill badge">Network Security</span>
+                <span class= "skill badge">Powershell</span>
               </div>
             </div>
             <div class="skills clearfix">
               <div class="item-skills">
-                  Web Development
+                  Web Design
                   <span class="skill-level">Comfortable</span>
               </div>
               <div class="col-sm-offset-1 col-sm-12 clearfix">
@@ -684,19 +639,17 @@ blockquote,
                 <span class= "interest badge">Electronic Frontier Foundation</span>
                 <span class= "interest badge">Open Rights Group</span>
                 <span class= "interest badge">Crypto-parties</span>
+                <span class= "interest badge">Converting people to Open Source</span>
                 <span class= "interest badge">Raising awareness</span>
               </div>
             </div>
             <div class="interests clearfix">
               <div class="item-interests">
-                  Great Outdoors
+                  Cycling
               </div>
               <div class="col-sm-offset-1 col-sm-12 clearfix">
-                <span class= "interest badge">Bouldering</span>
-                <span class= "interest badge">Rock Climbing</span>
-                <span class= "interest badge">Scrambling</span>
-                <span class= "interest badge">Adventures</span>
-                <span class= "interest badge">Wild Camping</span>
+                <span class= "interest badge">Road racing</span>
+                <span class= "interest badge">Sportives</span>
               </div>
             </div>
             <div class="interests clearfix">
@@ -711,11 +664,11 @@ blockquote,
             </div>
             <div class="interests clearfix">
               <div class="item-interests">
-                  Cycling
+                  Coffee Lover
               </div>
               <div class="col-sm-offset-1 col-sm-12 clearfix">
-                <span class= "interest badge">Road Cycling</span>
-                <span class= "interest badge">Mountain Biking</span>
+                <span class= "interest badge">Costa Coffee</span>
+                <span class= "interest badge">None of that instant stuff!</span>
               </div>
             </div>
           </div>
@@ -728,9 +681,9 @@ blockquote,
               </footer>
             </blockquote><br>
             <blockquote>
-              <div></div>
+              <div><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="4d202c3f2e0d3f2c3e3d2f283f3f343d2463223f2a">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></div>
               <footer>
-                <a href="" target= "_blank">X - Raspberry Pi Foundation</a>
+                <a href="" target= "_blank">Marc Scott, Head of Curriculum - Raspberry Pi Foundation</a>
               </footer>
             </blockquote><br>
             <blockquote>
@@ -743,6 +696,10 @@ blockquote,
         </div>
       </div>
     </div>
+    <!-- JQUERY -->
+    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!-- BOOTSTRAP -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
-  </body>
+  <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
 </html>

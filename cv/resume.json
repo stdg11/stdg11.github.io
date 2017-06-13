@@ -26,14 +26,14 @@
 	"website": "https://raspberrypi.org",
 	"startDate": "2016-03-21",
 	"endDate": "2017-05-31",
-	"summary": "I joined the Raspberry Pi Foundation during a sustained period of growth, within a year we went from roughly 20 employees to 120+. This was an initial contract of three months with the aim to deploy a cloud infrastructure and improve local infrastructure in Cambridge and London.",
+	"summary": "I joined the Raspberry Pi Foundation during a sustained period of growth, within a year we went from roughly 20 employees to 120+. This was an initial contract of three months with the aim to deploy a cloud infrastructure and improve local infrastructure in Cambridge and London. This contract was then extended to complete further projects.",
 	"highlights": [
-	    "Helping with the security requirements to enable ground to space communication with our two Raspberry Pi's on the International Space Station.",
-	    "Networking with leading professionals at a variety of events, most notably our birthday party celebration at the Houses of Parliament.",
-	    "Spending a week at the family orientated music festival Camp Bestival teaching children how to code in Scratch and Python.",
 	    "Migrating the foundations existing hosted exchange and file storage to the Google suite of applications.",
 	    "Working with different teams to identify workflows and establish IT systems to help automate and remove mundane processes.",
-	    "Identifying the needs of different teams and trialling different CRM's before implementing the most suitable system." 
+            "Identifying the needs of different teams and trialling different CRM's before implementing the most suitable system.",
+	    "Helping with the security requirements to enable ground to space communication with our two Raspberry Pi's on the International Space Station.",
+	    "Networking with leading professionals at a variety of events, most notably our birthday party celebration at the Houses of Parliament.",
+	    "Spending a week at the family orientated music festival Camp Bestival teaching children how to code in Scratch and Python."
 	]
 	}, {
 	    "company": "Smart Technologies",
@@ -73,7 +73,7 @@
 	"summary": "Cambridgeshire Search and Rescue (CamSAR) is the Lowland Rescue unit covering our county, often also assisting sister teams in the wider region. We are a specialist team, called upon by Police in the search for vulnerable missing people: a child, an elderly person living with dementia or even someone who is considering taking their own life. We are on call 24/7/365.",
 	"highlights": [
 	    "Locating a missing person allowing family and friends closure.",
-	    "Building on my skillset with specialist training."
+	    "Building on my skillset with specialist training. Inluding ALSAR First Aid, Health & Safety, Casualty Evacuation, Operations Control and more."
 	    ]
     },{
 	"organization": "Bourne & District Roundtable 896",
@@ -81,7 +81,7 @@
 	"website": "http://bournefestival.com/",
 	"startDate": "2014-10-01",
 	"endDate": "2017-04-01",
-	"summary": "Roundtable is about having a good time, networking and helping the local community. As well as our Music Festival, we invite the pensioners in Bourne to a Christmas Dinner. Along with a Fireworks night raising funds for the local primary school.",
+	"summary": "Roundtable is about having a good time, networking and helping the local community. As well as our Music Festival, we invite the pensioners in Bourne to a Christmas Dinner. Along with a Fireworks night raising funds for the local primary school. During my time as Treasurer I had to manage the Charity and House accounts and submit them to the auditor at the end of the financial year",
 	"highlights": [
 	    "Organising a Music & Beer festival annually for the local community, raising on average £20k for charity.",
 	    "Attending social events. Raft race, Segwaying, Shooting and drinking!"
@@ -110,12 +110,12 @@
 	"name": "Systems Administration",
 	"level": "Advanced",
 	"keywords": [
-	    "Linux (Mostly Debian based)",
-	    "Fortinet",
 	    "Windows",
 	    "Windows Servers",
+	    "Linux (Mostly Debian based)",
+	    "Fortinet",
 	    "Networking",
-	    "Scripting (Python/Shell/Powershell)",
+	    "Scripting (Python/Powershell/Bash)",
 	    "Documenting",
 	    "LEMP/LAMP Stacks",
 	    "Cloud Services"
@@ -155,7 +155,6 @@
 	"keywords": [
 	    "Electronic Frontier Foundation",
 	    "Open Rights Group",
-	    "Crypto-parties",
 	    "Raising awareness"
 	    ]
 	}, {
@@ -164,16 +163,9 @@
 		"Bouldering",
 		"Rock Climbing",
 		"Scrambling",
-		"Adventures",
+		"Kayaking",
 		"Wild Camping"
 		]
-	    }, {
-		"name": "Water Sports",
-		"keywords": [
-		    "Kayaking",
-		    "Canoeing",
-		    "Paddle-boarding"
-		    ]
 		}, {
 		    "name": "Cycling",
 		    "keywords": [

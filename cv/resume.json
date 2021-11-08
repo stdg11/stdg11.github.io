@@ -1,12 +1,15 @@
-{
+{	
+	"meta": {
+    "theme": "kendall"
+	},
     "basics": {
 	"name": "Daniel Grammatica",
-	"label": "Systems Administrator",
+	"label": "Engineering Manager",
 	"picture": "https://raw.githubusercontent.com/stdg11/stdg11.github.io/master/img/profile.jpg",
 	"email": "dan@t0xic.me",
 	"phone": "Email me",
 	"website": "http://t0xic.me",
-	"summary": "I have always had a fascination with technology since a young age. At twelve I was helping to manage my schools network and fixing computers for friends. This passion only grew as I got older and transformed into a career. Although I spend a lot of free time tinkering, building and crawling /r/sysadmin, I recognise the need to disconnect. From this need I have developed a great love for all things outdoors, especially climbing. I spend a lot of my free time down the local climbing gym and weekends exploring the Lake District and Snowdonia.",
+	"summary": "I have always had a fascination with technology since a young age. At twelve I was helping to manage my schools network and fixing computers for friends. This passion only grew as I got older and transformed into a career. Although I spend a lot of free time tinkering, building and crawling /r/sysadmin, I recognise the need to disconnect. From this need I have developed a great love for all things outdoors, especially climbing. I spend a lot of my free time down the local climbing gym and weekends exploring the Lake District, Snowdonia and Scotland.",
 	"location": {
 	    "address": "",
 	    "postalCode": "",
@@ -15,27 +18,42 @@
 	    "region": "Cambridgeshire"
 	    },
 	"profiles": [{
+      "network": "LinkedIn",
+      "username": "Daniel Grammatica",
+      "url": "https://www.linkedin.com/in/daniel-grammatica-327002174/"
+    },{
 	    "network": "Github",
 	    "username": "stdg11",
 	    "url": "https://github.com/stdg11"
 	    }]
 	},
-    "work": [{
-	"company": "Raspberry Pi Foundation",
-	"position": "IT Support & Systems Analyst",
-	"website": "https://raspberrypi.org",
-	"startDate": "2016-03-21",
-	"endDate": "2017-05-31",
-	"summary": "I joined the Raspberry Pi Foundation during a sustained period of growth, within a year we went from roughly 20 employees to 120+. This was an initial contract of three months with the aim to deploy a cloud infrastructure and improve local infrastructure in Cambridge and London. This contract was then extended to complete further projects.",
-	"highlights": [
+	"work": [{
+		"company": "Smart Solutions Group",
+		"position": "Engineering Manager",
+		"website": "https://mysmartgroup.co.uk",
+		"startDate": "2017-06-01",
+		"summary": "I've naturally progressed to this role having been a mentor to the engineering team, whilst advising the sales team ensuring expectations are met first time. At Smart Solutions we pride ourselves in offering honest business solutions and support. Part of my role is upholding this reputation ensuring customer satisfaction. We have a strong proven loyal customer base. Amongst many, a major highlight has been heading up Peterborough United FC's systems. Not only providing day to day support, overhauling their IT and Telecoms infrastructure, also match day support having the privilege to see them through to the Championship.",
+		"highlights": [
+	    "Helping develop Junior engineers skillsets and seeing them grow into the industry achieving their qualifications",
+	    "Maintaining a stong customer base developing business relationships",
+	    "Getting nominated for Business Continuity/Disaster Recovery (BC/DR) Project of the Year following our efforts to get Peterborough United FC match ready in five weeks (https://sdcawards.com/vote)"
+		]
+		},{
+		"company": "Raspberry Pi Foundation",
+		"position": "IT Support & Systems Analyst",
+		"website": "https://raspberrypi.org",
+		"startDate": "2016-03-21",
+		"endDate": "2017-05-31",
+		"summary": "I joined the Raspberry Pi Foundation during a sustained period of growth, within a year we went from roughly 20 employees to 120+. This was an initial contract of three months with the aim to deploy a cloud infrastructure and improve local infrastructure in Cambridge and London. This contract was then extended to complete further projects.",
+		"highlights": [
 	    "Migrating the foundations existing hosted exchange and file storage to the Google suite of applications.",
 	    "Working with different teams to identify workflows and establish IT systems to help automate and remove mundane processes.",
             "Identifying the needs of different teams and trialling different CRM's before implementing the most suitable system.",
 	    "Helping with the security requirements to enable ground to space communication with our two Raspberry Pi's on the International Space Station.",
 	    "Networking with leading professionals at a variety of events, most notably our birthday party celebration at the Houses of Parliament.",
 	    "Spending a week at the family orientated music festival Camp Bestival teaching children how to code in Scratch and Python."
-	]
-	}, {
+		]
+		},{
 	    "company": "Smart Technologies",
 	    "position": "IT Systems Engineer",
 	    "website": "http://mysmartgroup.co.uk",
@@ -50,7 +68,7 @@
 		"Working with a vast range of Hardware/Software products. Applying previous knowledge to new systems, discovering the fundamentals are the same. For example Firewall's being a Linux Box running IP Tables alongside a GUI.",
 		"Developing my customer focus and team working skills, ensuring the client is satisfied with the end product and level of support."
 		]
-	    }, {
+	    },{
 		"company": "Bourne Grammar School",
 		"position": "Systems Administrator & Performing Arts Technician",
 		"website": "http://www.bourne-grammar.lincs.sch.uk",
@@ -66,6 +84,47 @@
 		    ]
 		}],
     "volunteer": [{
+	"organization": "Peterborough Mountaineering Club",
+	"position": "Child Protection Officer",
+	"website": "https://peterboroughmc.co.uk",
+	"startDate": "2021-10-01",
+	"summary": "",
+	"highlights": [
+	    "",
+	    ""
+	    ]
+    },{
+	"organization": "Peterborough Mountaineering Club",
+	"position": "TakeIn Editor",
+	"website": "https://peterboroughmc.co.uk",
+	"startDate": "2018-12-01",
+	"summary": "",
+	"highlights": [
+	    "",
+	    ""
+	    ]
+    },{
+	"organization": "Peterborough Mountaineering Club",
+	"position": "Webmaster",
+	"website": "https://peterboroughmc.co.uk",
+	"startDate": "2018-12-01",
+	"summary": "",
+	"highlights": [
+	    "",
+	    ""
+	    ]
+    },{
+	"organization": "Peterborough Climbing Wall",
+	"position": "Supervisor and Route Setter",
+	"website": "https://peterboroughclimbingwall.co.uk",
+	"startDate": "2016-09-01",
+	"endDate": "2021-01-01",
+	"summary": "As a volunteer supervisor at the climbing wall I took part in a rota to open the centre, manage new registrations, check people in and ensure every one taking part were climbing safetly. Outside of opening hours as part of the route setting team I would set new routes and ensure a good range of grades were set.",
+	"highlights": [
+	    "",
+	    ""
+	    ]
+    },{
 	"organization": "Cambridgeshire Search and Rescue",
 	"position": "Search Technician",
 	"website": "http://camsar.org/",
@@ -87,15 +146,15 @@
 	    "Attending social events. Raft race, Segwaying, Shooting and drinking!"
 	]
     },{
-	    "organization": "Stamford Shakespeare Company",
-	    "position": "Technical",
-	    "website": "http://stamfordshakespeare.co.uk/",
-	    "summary": "I love pushing faders! I help out with lots of local events (mostly charitable) either providing Equipment or Engineering. I'm predominantly a noise boy and enjoy mixing sound.",
-	    "highlights": [
+	"organization": "Stamford Shakespeare Company",
+	"position": "Technical",
+	"website": "http://stamfordshakespeare.co.uk/",
+	"summary": "I love pushing faders! I help out with lots of local events (mostly charitable) either providing Equipment or Engineering. I'm predominantly a noise boy and enjoy mixing sound.",
+	"highlights": [
 		"5AM Full English after an overnight de-rig"
-		]
-	    }],
-    "education": [{
+	]
+}],
+"education": [{
 	"institution": "Bourne Grammar School",
 	"area": "Secondary School",
 	"studyType": "",
@@ -113,17 +172,17 @@
 	    "Windows",
 	    "Windows Servers",
 	    "Linux (Mostly Debian based)",
-	    "Fortinet",
+	    "Firewalls/Security",
 	    "Networking",
 	    "Scripting (Python/Powershell/Bash)",
 	    "Documenting",
 	    "LEMP/LAMP Stacks",
-	    "Cloud Services"
+	    "Cloud Services (Azure/365/AWS/DO)"
 	    ]
 	}, {
-	    "name": "Web Development",
-	    "level": "Comfortable",
-	    "keywords": [
+	"name": "Web Development",
+	"level": "Comfortable",
+	"keywords": [
 		"HTML",
 		"CSS",
 		"Markdown",
@@ -131,25 +190,25 @@
 		"CMS",
 		"Photoshop/InDesign"
 		]
-	    }, {
-		"name": "Live Events",
-		"level": "Advanced",
-		"keywords": [
-		    "Event management",
-		    "Sound",
-		    "Lighting",
-		    "Stage",
-		    "Rigging",
-		    "Health & Safety"
-		    ]
-		}],
+	}, {
+	"name": "Live Events",
+	"level": "Advanced",
+	"keywords": [
+	    "Event management",
+	    "Sound",
+	    "Lighting",
+	    "Stage",
+	    "Rigging",
+	    "Health & Safety"
+	    ]
+	}],
     "languages": [{
 	"language": "English",
 	"fluency": "Native speaker"
 	}, {
-	    "language": "Geek",
-	    "fluency": "Fluent"
-	    }],
+	"language": "Geek",
+	"fluency": "Fluent"
+	}],
     "interests": [{
 	"name": "Online Rights",
 	"keywords": [
@@ -157,30 +216,31 @@
 	    "Open Rights Group",
 	    "Raising awareness"
 	    ]
-	}, {
-	    "name": "Great Outdoors",
-	    "keywords": [
+	},{
+	"name": "Great Outdoors",
+	"keywords": [
 		"Bouldering",
 		"Rock Climbing",
 		"Scrambling",
 		"Kayaking",
-		"Wild Camping"
+		"Wild Camping",
+		"Skydiving"
 		]
-		}, {
-		    "name": "Cycling",
-		    "keywords": [
-			"Road Cycling",
-			"Mountain Biking"
-			]
-		    }],
-    "references": [{
+	},{
+	"name": "Cycling",
+		"keywords": [
+		"Road Cycling",
+		"Mountain Biking"
+		]
+	}],
+"references": [{
 	"name": "Stephen Brown, Director of Computing - Bourne Grammar School",
 	"reference": "Daniel has quickly established himself as able to learn and apply new skills and knowledge. His recent work on setting up a Linux AD integrated environment was impressive."
-	}, {
-	    "name": "X - Raspberry Pi Foundation",
-	    "reference": ""
-	    }, {
-		"name": "Harry Goodger, Managing Director - Paridom Company Ltd.",
-		"reference": "Daniel has matured into a very responsible, hard working and honest young man, someone I am proud to call a true friend."
-		}]
+	},{
+	"name": "Bob Symns - Peterborough United FC",
+	"reference": ""
+	},{
+	"name": "Harry Goodger, Managing Director - Paridom Company Ltd.",
+	"reference": "Daniel has matured into a very responsible, hard working and honest young man, someone I am proud to call a true friend."
+	}]
 }

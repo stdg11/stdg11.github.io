@@ -6,8 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Resume of Daniel Grammatica</title>
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <script src="/cdn-cgi/apps/head/QEWNwoPSl2O5LqMXvi595gsiMPg.js"></script><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet">
     <style type="text/css">
     @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
 @charset "utf-8";
@@ -312,9 +314,7 @@ blockquote,
 .contact-item,
 .publication,
 .skills,
-.interests,
-.job-details,
-.job {
+.interests {
   page-break-inside: avoid;
 }
 
@@ -392,10 +392,10 @@ blockquote,
           <div id="photo-header" class="text-center">
             <!-- PHOTO (AVATAR) -->
             <div id="photo">
-              <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;stdg11&#x2F;stdg11.github.io&#x2F;master&#x2F;img&#x2F;profile.jpg" alt="avatar">
+              <img src="&#x2F;&#x2F;www.gravatar.com&#x2F;avatar&#x2F;0f8f881073eba931835358b955ccab02?s&#x3D;200&amp;r&#x3D;pg&amp;d&#x3D;mm" alt="avatar">
             </div>
             <div id="text-header" >
-              <h1>Daniel Grammatica<br><span>Systems Administrator</span></h1>
+              <h1>Daniel Grammatica<br><span>Engineering Manager</span></h1>
             </div>
           </div>
         </div>
@@ -404,18 +404,41 @@ blockquote,
         <div class="col-xs-12 col-sm-7">
           <!-- ABOUT ME -->
           <div class="box">
-            <h2><i class="fa fa-user ico"></i> About</h2>
-            <p>I have always had a fascination with technology since a young age. At twelve I was helping to manage my schools network and fixing computers for friends. This passion only grew as I got older and transformed into a career. Although I spend a lot of free time tinkering, building and crawling /r/sysadmin, I recognise the need to disconnect. From this need I have developed a great love for all things outdoors, especially climbing. I spend a lot of my free time down the local climbing gym and weekends exploring the Lake District and Snowdonia.</p>
+            <h2><i class="fas fa-user ico"></i> About</h2>
+            <p>I have always had a fascination with technology since a young age. At twelve I was helping to manage my schools network and fixing computers for friends. This passion only grew as I got older and transformed into a career. Although I spend a lot of free time tinkering, building and crawling /r/sysadmin, I recognise the need to disconnect. From this need I have developed a great love for all things outdoors, especially climbing. I spend a lot of my free time down the local climbing gym and weekends exploring the Lake District, Snowdonia and Scotland.</p>
           </div>
           <!-- WORK EXPERIENCE -->
           <div class="box">
-            <h2><i class= "fa fa-suitcase ico"></i> Work Experience</h2>
+            <h2><i class= "fas fa-suitcase ico"></i> Work Experience</h2>
               <div class="job clearfix">
                 <div class="row">
                   <div class="details">
-                    <div class="where">Raspberry Pi Foundation</div>
-                    <div class="address">
-                      <a href="https:&#x2F;&#x2F;raspberrypi.org" target= "_blank"><i class="fa fa-globe ico"></i> https:&#x2F;&#x2F;raspberrypi.org</a>
+                    <div class="where">
+                      
+                    </div>
+                    <div class="year">June 2017 – Present</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Engineering Manager</div>
+                    <div class="description">
+                      I've naturally progressed to this role having been a mentor to the engineering team, whilst advising the sales team ensuring expectations are met first time. At Smart Solutions we pride ourselves in offering honest business solutions and support. Part of my role is upholding this reputation ensuring customer satisfaction. We have a strong proven loyal customer base. Amongst many, a major highlight has been heading up Peterborough United FC's systems. Not only providing day to day support, overhauling their IT and Telecoms infrastructure, also match day support having the privilege to see them through to the Championship.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Helping develop Junior engineers skillsets and seeing them grow into the industry achieving their qualifications</li>
+                        <li class="list-group-item">Maintaining a stong customer base developing business relationships</li>
+                        <li class="list-group-item">Getting nominated for Business Continuity/Disaster Recovery (BC/DR) Project of the Year following our efforts to get Peterborough United FC match ready in five weeks (https://sdcawards.com/vote)</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      
                     </div>
                     <div class="year">March 2016 – May 2017</div>
                   </div>
@@ -441,9 +464,8 @@ blockquote,
               <div class="job clearfix">
                 <div class="row">
                   <div class="details">
-                    <div class="where">Smart Technologies</div>
-                    <div class="address">
-                      <a href="http:&#x2F;&#x2F;mysmartgroup.co.uk" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;mysmartgroup.co.uk</a>
+                    <div class="where">
+                      
                     </div>
                     <div class="year">October 2015 – March 2016</div>
                   </div>
@@ -469,9 +491,8 @@ blockquote,
               <div class="job clearfix">
                 <div class="row">
                   <div class="details">
-                    <div class="where">Bourne Grammar School</div>
-                    <div class="address">
-                      <a href="http:&#x2F;&#x2F;www.bourne-grammar.lincs.sch.uk" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.bourne-grammar.lincs.sch.uk</a>
+                    <div class="where">
+                      
                     </div>
                     <div class="year">March 2011 – October 2015</div>
                   </div>
@@ -496,19 +517,80 @@ blockquote,
           </div>
           <!-- VOLUNTEER -->
           <div class="box">
-            <h2><i class= "fa fa-group ico"></i> Volunteer</h2>
+            <h2><i class= "fas fa-users ico"></i> Volunteer</h2>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Peterborough Mountaineering Club</div>
+                    <div class="year">October 2021 – Present</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Child Protection Officer</div>
+                    <div class="description">
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Peterborough Mountaineering Club</div>
+                    <div class="year">December 2018 – Present</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">TakeIn Editor</div>
+                    <div class="description">
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Peterborough Mountaineering Club</div>
+                    <div class="year">December 2018 – Present</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Webmaster</div>
+                    <div class="description">
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Peterborough Climbing Wall</div>
+                    <div class="year">September 2016 – January 2021</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Supervisor and Route Setter</div>
+                    <div class="description">
+                      As a volunteer supervisor at the climbing wall I took part in a rota to open the centre, manage new registrations, check people in and ensure every one taking part were climbing safetly. Outside of opening hours as part of the route setting team I would set new routes and ensure a good range of grades were set.
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="job clearfix">
                 <div class="row">
                   <div class="details">
                     <div class="where">Cambridgeshire Search and Rescue</div>
-                    <div class="address">
-                      <a href="http:&#x2F;&#x2F;camsar.org&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;camsar.org&#x2F;</a>
-                    </div>
                     <div class="year">March 2017 – Present</div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-xs-11 pull-right">
+                  <div class="job-details col-xs-11">
                     <div class="profession">Search Technician</div>
                     <div class="description">
                       Cambridgeshire Search and Rescue (CamSAR) is the Lowland Rescue unit covering our county, often also assisting sister teams in the wider region. We are a specialist team, called upon by Police in the search for vulnerable missing people: a child, an elderly person living with dementia or even someone who is considering taking their own life. We are on call 24/7/365.
@@ -525,14 +607,11 @@ blockquote,
                 <div class="row">
                   <div class="details">
                     <div class="where">Bourne &amp; District Roundtable 896</div>
-                    <div class="address">
-                      <a href="http:&#x2F;&#x2F;bournefestival.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;bournefestival.com&#x2F;</a>
-                    </div>
                     <div class="year">October 2014 – April 2017</div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-xs-11 pull-right">
+                  <div class="job-details col-xs-11">
                     <div class="profession">Hon. Treasurer</div>
                     <div class="description">
                       Roundtable is about having a good time, networking and helping the local community. As well as our Music Festival, we invite the pensioners in Bourne to a Christmas Dinner. Along with a Fireworks night raising funds for the local primary school. During my time as Treasurer I had to manage the Charity and House accounts and submit them to the auditor at the end of the financial year
@@ -549,14 +628,11 @@ blockquote,
                 <div class="row">
                   <div class="details">
                     <div class="where">Stamford Shakespeare Company</div>
-                    <div class="address">
-                      <a href="http:&#x2F;&#x2F;stamfordshakespeare.co.uk&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;stamfordshakespeare.co.uk&#x2F;</a>
-                    </div>
                     <div class="year"> – Present</div>
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-xs-11 pull-right">
+                  <div class="job-details col-xs-11">
                     <div class="profession">Technical</div>
                     <div class="description">
                       I love pushing faders! I help out with lots of local events (mostly charitable) either providing Equipment or Engineering. I'm predominantly a noise boy and enjoy mixing sound.
@@ -573,38 +649,40 @@ blockquote,
         <div class="col-xs-12 col-sm-5">
           <!-- CONTACT -->
           <div class="box clearfix">
-            <h2><i class="fa fa-bullseye ico"></i> Contact</h2>
+            <h2><i class="fas fa-bullseye ico"></i> Contact</h2>
             <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-map-marker fa-fw"></span></div>
+              <div class="icon pull-left text-center"><span class="fas fa-map-marker fa-fw"></span></div>
               
               <div class="title only  pull-right">Peterborough, Cambridgeshire UK</div>
             </div>
             <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-phone fa-fw"></span></div>
+              <div class="icon pull-left text-center"><span class="fas fa-phone fa-fw"></span></div>
               <div class="title only pull-right">Email me</div>
             </div>
             <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-envelope fa-fw"></span></div>
+              <div class="icon pull-left text-center"><span class="fas fa-envelope fa-fw"></span></div>
               <div class="title only pull-right"><a href="mailto:dan@t0xic.me" target="_blank">dan@t0xic.me</a></div>
             </div>
             <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-globe fa-fw"></span></div>
-              <div class="title only pull-right"><a href="http:&#x2F;&#x2F;t0xic.me" target="_blank">http:&#x2F;&#x2F;t0xic.me</a></div>
+              <div class="icon pull-left text-center"><span class="fab fa-linkedin fa-fw"></span></div>
+              <div class="title pull-right">LinkedIn</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;daniel-grammatica-327002174&#x2F;" target="_blank">Daniel Grammatica</a></div>
             </div>
             <div class="contact-item">
-              <div class="icon pull-left text-center"><span class="fa fa-github fa-fw"></span></div>
+              <div class="icon pull-left text-center"><span class="fab fa-github fa-fw"></span></div>
               <div class="title pull-right">Github</div>
               <div class="description pull-right"><a href="https:&#x2F;&#x2F;github.com&#x2F;stdg11" target="_blank">stdg11</a></div>
             </div>
           </div>
           <!-- EDUCATION -->
           <div class="box">
-            <h2><i class="fa fa-university ico"></i> Education</h2>
+            <h2><i class="fas fa-university ico"></i> Education</h2>
             <ul id="education" class="clearfix">
               <li>
                 <div class="year pull-left">2005 2010</div>
                 <div class="description pull-right">
                   <h3>Bourne Grammar School</h3>
+                  <div class="where"></div>
                   
                   <p>Secondary School</p>
                     <div>Courses</div>
@@ -618,7 +696,7 @@ blockquote,
           </div>
           <!-- SKILLS -->
           <div class="box">
-            <h2><i class="fa fa-tasks ico"></i> Skills</h2>
+            <h2><i class="fas fa-tasks ico"></i> Skills</h2>
             <div class="skills clearfix">
               <div class="item-skills">
                   Systems Administration
@@ -628,12 +706,12 @@ blockquote,
                 <span class= "skill badge">Windows</span>
                 <span class= "skill badge">Windows Servers</span>
                 <span class= "skill badge">Linux (Mostly Debian based)</span>
-                <span class= "skill badge">Fortinet</span>
+                <span class= "skill badge">Firewalls/Security</span>
                 <span class= "skill badge">Networking</span>
                 <span class= "skill badge">Scripting (Python/Powershell/Bash)</span>
                 <span class= "skill badge">Documenting</span>
                 <span class= "skill badge">LEMP/LAMP Stacks</span>
-                <span class= "skill badge">Cloud Services</span>
+                <span class= "skill badge">Cloud Services (Azure/365/AWS/DO)</span>
               </div>
             </div>
             <div class="skills clearfix">
@@ -665,17 +743,9 @@ blockquote,
               </div>
             </div>
           </div>
-          <!-- LANGUAGES -->
-          <div class="box">
-            <h2><i class="fa fa-language ico"></i> Languages</h2>
-            <ul class="list-group">
-              <li class=" list-group-item">English<span class="skill badge pull-right">Native speaker</span></li>
-              <li class=" list-group-item">Geek<span class="skill badge pull-right">Fluent</span></li>
-            </ul>
-          </div>
           <!-- HOBBIES -->
           <div class="box">
-            <h2><i class="fa fa-heart ico"></i> Interests</h2>
+            <h2><i class="fas fa-heart ico"></i> Interests</h2>
             <div class="interests clearfix">
               <div class="item-interests">
                   Online Rights
@@ -696,6 +766,7 @@ blockquote,
                 <span class= "interest badge">Scrambling</span>
                 <span class= "interest badge">Kayaking</span>
                 <span class= "interest badge">Wild Camping</span>
+                <span class= "interest badge">Skydiving</span>
               </div>
             </div>
             <div class="interests clearfix">
@@ -709,7 +780,7 @@ blockquote,
             </div>
           </div>
           <div class="box">
-            <h2><i class= "fa fa-check-square ico"></i> References</h2>
+            <h2><i class= "fas fa-check-square ico"></i> References</h2>
             <blockquote>
               <div>Daniel has quickly established himself as able to learn and apply new skills and knowledge. His recent work on setting up a Linux AD integrated environment was impressive.</div>
               <footer>
@@ -719,7 +790,7 @@ blockquote,
             <blockquote>
               <div></div>
               <footer>
-                <a href="" target= "_blank">X - Raspberry Pi Foundation</a>
+                <a href="" target= "_blank">Bob Symns - Peterborough United FC</a>
               </footer>
             </blockquote><br>
             <blockquote>
